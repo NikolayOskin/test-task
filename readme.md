@@ -16,6 +16,7 @@
 - cоздаем .env файл, прописываем доступ к базе.
 - composer install
 - php artisan migrate
+- php artisan key:generate
 
 Далее, пишем в консоли php artisan tinker и:
 
